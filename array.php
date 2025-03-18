@@ -1,3 +1,5 @@
+<h1>ê mới cập nhật nè</h1>
+
 <?php
 $hoten = array("Pham", "Anh", "Ngu");
 echo "Ho: $hoten[0], Ten dem: $hoten[1], Ten: $hoten[2]<br>";
