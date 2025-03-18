@@ -1,4 +1,4 @@
-<h1>ê mới cập nhật nè</h1>
+<h1>ê mới cập nhật nè, thêm dòng này để test conflick</h1>
 
 <?php
 $hoten = array("Pham", "Anh", "Ngu");
