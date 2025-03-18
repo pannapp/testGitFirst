@@ -1,4 +1,4 @@
-<h1>ê mới cập nhật nè</h1>
+<h1>ê mới cập nhật nè, ừa tôi biết rồi</h1>
 
 <?php
 $hoten = array("Pham", "Anh", "Ngu");
