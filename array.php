@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1>ê mới cập nhật nè, ừa tôi biết rồi</h1>
+=======
+<h1>ê mới cập nhật nè, thêm dòng này để test conflick</h1>
+>>>>>>> 291c4fef2720a7efa8ffbaaaf9d7237108b9a1c9
 
 <?php
 $hoten = array("Pham", "Anh", "Ngu");
